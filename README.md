@@ -1,4 +1,15 @@
-## Website (https://react-github-users-search-w.netlify.app/)
+## See this project: (https://react-github-users-search-w.netlify.app/)
+
+## What was used in the project?:
+- ReactJS (useState, useContext, useEffect)
+- Axios  
+- React Router 
+- React Icons
+- Auth0
+- Styled Components
+- Gihthub API
+- Fusion Charts
+
 
 
 ## Starter Project
@@ -91,21 +102,6 @@ version used - "react-router-dom": "^5.2.0",
 
 [Netlify](https://www.netlify.com/)
 
-## Additional Info
-
-#### Redirects with react-router-dom
-
-In order for routing to work on netlify, redirects was added to the public folder
-
-- \_redirects file in public
-
-```
-
-/*    /index.html   200
-
-```
-
-[Redirects Blog Post](https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc)
 
 #### Warnings and create-react-app
 
