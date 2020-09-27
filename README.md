@@ -1,6 +1,6 @@
 ## See this project: (https://react-github-users-search-w.netlify.app/)
 
-## What was used in the project?:
+## This is what I used in this project:
 - ReactJS (useState, useContext, useEffect)
 - Axios  
 - React Router 
