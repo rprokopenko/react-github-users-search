@@ -1,6 +1,6 @@
 ## See this project: (https://react-github-users-search-w.netlify.app/)
 
-## This is what I used in this project:
+## Stack:
 - ReactJS (useState, useContext, useEffect)
 - Axios  
 - React Router 
